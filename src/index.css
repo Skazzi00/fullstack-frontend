@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: 'Verdana', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: var(--background-color);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+:root {
+  --primary-color: #282F44;
+  --secondary-color: #4A5A8A;
+  --background-color: #191D32;
+}
